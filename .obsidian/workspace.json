@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "a69e0562fe1a6de7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f79fb33dc0a6f28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "806e64a0c02f1d2a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INBOX/פרק יו\"ט.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "פרק יו\"ט"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af7347c8adb7bf93",
+    "type": "split",
+    "children": [
+      {
+        "id": "78c0816251b26292",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc3b10dd45f54f18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "93a57b996a74138d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "531180617bfc6ed1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "dbd60df05b9b140a",
+    "type": "split",
+    "children": [
+      {
+        "id": "202c442852b507aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6176668036cd8ebf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "INBOX/פרק יו\"ט.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for פרק יו\"ט"
+            }
+          },
+          {
+            "id": "ded63a5b3e2c59ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "פרק יו\"ט.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from פרק יו\"ט"
+            }
+          },
+          {
+            "id": "995d8be04451e4bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7aa37c1451a8c6fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "פרק יו\"ט.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of פרק יו\"ט"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "dc3b10dd45f54f18",
+  "lastOpenFiles": [
+    "שונות/קרני הוד.md",
+    "שונות/תורה שבעל פה.md",
+    "INBOX/פרק יו\"ט.md",
+    "זמנים/שבת/מצוות שבת.md",
+    "זמנים/נר.md",
+    "תפילה וברכות/מים אחרונים.md",
+    "שונות/מתיר.md",
+    "זמנים/יום טוב/מצוות יום טוב.md",
+    "זמנים/שבת/כבוד שבת.md",
+    "זמנים/ראש חודש.md",
+    "שונות/לשון.md",
+    "שער.md",
+    "תפילה וברכות/סעודה גדולה.md",
+    "תפילה וברכות",
+    "זמנים/סעודה חשובה.md",
+    "קדשים",
+    "עונשים",
+    "Untitled.md",
+    "בישול עכו\"ם.md",
+    "זמנים/יום טוב/שמחת יו\"ט.md",
+    "שונות",
+    "זמנים/מקח וממכר.md",
+    "זמנים/מתקן מנא.md",
+    "שונות/מוסיף קדושה על קדושתו.md",
+    "זמנים/שבת",
+    "שונות/שני כתובים המכחישים.md",
+    "זמנים/יום טוב/מתוך.md",
+    "שונות/ספרי תנ\"ך.md",
+    "זמנים/יום טוב/ערוב תבשילין/טעם תקנת ע\"ת.md",
+    "גזרות/על מה גוזרין.md",
+    "זמנים/יום טוב/מלאכת עבודה.md",
+    "זמנים",
+    "זמנים/יום טוב",
+    "גזרות",
+    "זמנים/יום טוב/ערוב תבשילין",
+    "INBOX",
+    "Untitled.canvas"
+  ]
+}
