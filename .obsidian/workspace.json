@@ -22,8 +22,57 @@
               "icon": "lucide-file",
               "title": "פרק יו\"ט"
             }
+          },
+          {
+            "id": "872b2a8dbbb85be4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "חכמים/לשון הגמרא.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "לשון הגמרא"
+            }
+          },
+          {
+            "id": "1d56772af0c61d78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "-#פרק",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -96,9 +145,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INBOX/פרק יו\"ט.md",
+                "file": "README.md",
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -106,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for פרק יו\"ט"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -184,32 +233,35 @@
   },
   "active": "e712802ecd597b3c",
   "lastOpenFiles": [
-    "INBOX/פרק יו\"ט.md",
-    "זמנים/יום טוב/ערוב תבשילין/מין התבשילין לע\"ת.md",
-    "קולייס האספנין.md",
-    "זמנים/שבת/ערוב חצרות.md",
-    "זמנים/יום טוב/ערוב תבשילין/מעשה ע\"ת.md",
-    "איסור והיתר/מאכלי עכו\"ם/פת עכו\"ם.md",
-    "איסור והיתר/מאכלי עכו\"ם/בישול עכו\"ם.md",
-    "ברכות ותפילה/ברכה ראשונה.md",
-    "שונות/שלוק.md",
-    "ברכות ותפילה/פת הבאה בכיסנין.md",
-    "INBOX/פרק ביצה.md",
-    "זמנים/שבת/הוצאה.md",
     "חכמים/סמיכה.md",
-    "איסור והיתר/טעם כעיקר.md",
-    "איסור והיתר/מאכלות אסורות.md",
-    "בית דירה.md",
-    "איסור והיתר/מעשה בגר\"ח ור\"א טעלזער.md",
-    "סוכה.md",
-    "איסור והיתר/כבוש כמבושל.md",
-    "הילוך מיל.md",
-    "ברכות ותפילה/ברכת המזון.md",
-    "זמנים/שבת/בישול בשבת.md",
-    "שונות/ביטול ברוב.md",
-    "איסור והיתר/אינו בן יומו.md",
+    "README.md",
     "חכמים/לשון הגמרא.md",
-    "זמנים/יום טוב/ערוב תבשילין/שיעור ע\"ת.md",
+    "INBOX/פרק יו\"ט.md",
+    "ברכות ותפילה/תפילת ראש השנה.md",
+    "קדשים/תנופה.md",
+    "שער.md",
+    "INBOX/פרק ביצה.md",
+    "שונות/חומרא.md",
+    "קדשים/בנין בית המקדש.md",
+    "תנ\"ך/נבואה.md",
+    "תנ\"ך/ספרי תנ\"ך.md",
+    "תנ\"ך",
+    "ברכות ותפילה/יעלה ויבא.md",
+    "ברכות ותפילה/תפילת יו\"ט שחל בשבת.md",
+    "ברכות ותפילה/תפילה.md",
+    "שונות 1/שני כתובים המכחישים.md",
+    "שונות 1/שלוק.md",
+    "שונות 1/קולייס האספנין.md",
+    "שונות 1/סמוכין.md",
+    "שונות 1/מתיר.md",
+    "שונות 1/מוסיף קדושה על קדושתו.md",
+    "שונות 1/כזית.md",
+    "שונות 1/הילוך מיל.md",
+    "שונות 1/דיבור.md",
+    "שונות 1/בית דירה.md",
+    "שונות 1/ביטול ברוב.md",
+    "שונות 1",
+    "קנינים",
     "חכמים",
     "אגדתא",
     "איסור והיתר/מאכלי עכו\"ם",
@@ -217,9 +269,6 @@
     "ברכות ותפילה",
     "קדשים",
     "עונשים",
-    "שונות",
-    "זמנים/שבת",
-    "זמנים",
     "Untitled.canvas"
   ]
 }
