@@ -55,10 +55,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "==",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -97,7 +97,7 @@
               "type": "backlink",
               "state": {
                 "file": "INBOX/פרק יו\"ט.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "פרק יו\"ט.md",
+                "file": "INBOX/פרק יו\"ט.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "פרק יו\"ט.md",
+                "file": "INBOX/פרק יו\"ט.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -152,13 +152,23 @@
               "icon": "lucide-list",
               "title": "Outline of פרק יו\"ט"
             }
+          },
+          {
+            "id": "e712802ecd597b3c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,42 +179,43 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-importer:Open Importer": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc3b10dd45f54f18",
+  "active": "806e64a0c02f1d2a",
   "lastOpenFiles": [
-    "שונות/קרני הוד.md",
-    "שונות/תורה שבעל פה.md",
+    "זמנים/יום טוב/מתוך.md",
     "INBOX/פרק יו\"ט.md",
-    "זמנים/שבת/מצוות שבת.md",
+    "שונות/שני כתובים המכחישים.md",
+    "זמנים/יום טוב/שמחת יו\"ט.md",
+    "זמנים/יום טוב/מלאכת עבודה.md",
     "זמנים/נר.md",
-    "תפילה וברכות/מים אחרונים.md",
-    "שונות/מתיר.md",
-    "זמנים/יום טוב/מצוות יום טוב.md",
-    "זמנים/שבת/כבוד שבת.md",
-    "זמנים/ראש חודש.md",
-    "שונות/לשון.md",
+    "זמנים/מוקצה.md",
     "שער.md",
+    "זמנים/הכנה דרבה.md",
+    "זמנים/יום טוב/מצוות יום טוב.md",
     "תפילה וברכות/סעודה גדולה.md",
-    "תפילה וברכות",
+    "תפילה וברכות/מים אחרונים.md",
+    "שונות/תורה שבעל פה.md",
+    "שונות/קרני הוד.md",
+    "שונות/ספרי תנ\"ך.md",
+    "שונות/סמוכין.md",
+    "שונות/מתיר.md",
+    "שונות/מוסיף קדושה על קדושתו.md",
+    "שונות/לשון.md",
+    "שונות/הלל ושמאי.md",
+    "קדשים/טומאה הותרה בציבור.md",
+    "עונשים/דומיא ללאו דחסימא.md",
+    "זמנים/ראש חודש.md",
+    "זמנים/קדושה אחת.md",
     "זמנים/סעודה חשובה.md",
+    "זמנים/מתקן מנא.md",
+    "תפילה וברכות",
     "קדשים",
     "עונשים",
-    "Untitled.md",
-    "בישול עכו\"ם.md",
-    "זמנים/יום טוב/שמחת יו\"ט.md",
     "שונות",
-    "זמנים/מקח וממכר.md",
-    "זמנים/מתקן מנא.md",
-    "שונות/מוסיף קדושה על קדושתו.md",
     "זמנים/שבת",
-    "שונות/שני כתובים המכחישים.md",
-    "זמנים/יום טוב/מתוך.md",
-    "שונות/ספרי תנ\"ך.md",
-    "זמנים/יום טוב/ערוב תבשילין/טעם תקנת ע\"ת.md",
-    "גזרות/על מה גוזרין.md",
-    "זמנים/יום טוב/מלאכת עבודה.md",
     "זמנים",
     "זמנים/יום טוב",
     "גזרות",
