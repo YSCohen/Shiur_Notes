@@ -3,7 +3,7 @@
   "nativeMenus": false,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
-    "bullets",
-    "sync-hide"
+    "sync-hide",
+    "bullets"
   ]
 }

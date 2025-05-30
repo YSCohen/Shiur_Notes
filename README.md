@@ -1,1 +1,0 @@
-Some of my notes from shiur. They're not much good, su unless you heard the shiur don't bother reading them

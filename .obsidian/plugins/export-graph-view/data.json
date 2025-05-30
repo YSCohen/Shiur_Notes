@@ -1,0 +1,7 @@
+{
+  "exportFormat": "mmd",
+  "includeOrphans": false,
+  "includeAttachments": false,
+  "maxNodes": 1000,
+  "lastExported": "graph"
+}

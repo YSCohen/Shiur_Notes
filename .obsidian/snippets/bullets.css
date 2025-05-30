@@ -5,7 +5,7 @@
     height: 5px;
     width: 5px;
     border-radius: 50%;
-    background-color: var(--bullet-new-color);
+    background-color: var(--text-normal);
 }
 
 /* LEVEL 2 */
@@ -15,7 +15,7 @@
     height: 4px;
     width: 4px;
     background-color: Transparent;
-    border-color: var(--bullet-new-color);
+    border-color: var(--text-normal);
     border-style: solid;
     border-radius: 50%;
     border-width: 1px;
@@ -28,7 +28,7 @@
     height: 5px;
     width: 5px;
     border-radius: 0%;
-    background-color: var(--bullet-new-color);
+    background-color: var(--text-normal);
 }
 
 /* LEVEL 4 */
@@ -38,7 +38,7 @@
     height: 4px;
     width: 4px;
     background-color: Transparent;
-    border-color: var(--bullet-new-color);
+    border-color: var(--text-normal);
     border-style: solid;
     border-radius: 0%;
     border-width: 1px;
@@ -51,7 +51,7 @@
     height: 5px;
     width: 5px;
     border-radius: 50%;
-    background-color: var(--bullet-new-color);
+    background-color: var(--text-normal);
 }
 
 /* LEVEL 6 */
@@ -61,7 +61,7 @@
     height: 4px;
     width: 4px;
     background-color: Transparent;
-    border-color: var(--bullet-new-color);
+    border-color: var(--text-normal);
     border-style: solid;
     border-radius: 50%;
     border-width: 1px;
@@ -74,7 +74,7 @@
     height: 5px;
     width: 5px;
     border-radius: 0%;
-    background-color: var(--bullet-new-color);
+    background-color: var(--text-normal);
 }
 
 /* LEVEL 8 */
@@ -84,11 +84,8 @@
     height: 4px;
     width: 4px;
     background-color: Transparent;
-    border-color: var(--bullet-new-color);
+    border-color: var(--text-normal);
     border-style: solid;
     border-radius: 0%;
     border-width: 1px;
 }
-
-/* bullet color */
-:root { --bullet-new-color: rgb(255,255,255);}

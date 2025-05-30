@@ -5,18 +5,26 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#פרק_יוט_תשפה  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -0.9,
-  "nodeSizeMultiplier": 1.22291666666667,
-  "lineSizeMultiplier": 1.58020833333333,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.06979166666667,
+  "lineSizeMultiplier": 0.916666666666667,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.1668259496898406,
+  "centerStrength": 0.354166666666667,
+  "repelStrength": 8.22916666666667,
+  "linkStrength": 0.651041666666667,
+  "linkDistance": 130,
+  "scale": 0.26148504069124473,
   "close": true
 }
