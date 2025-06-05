@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "806e64a0c02f1d2a",
+            "id": "d3398e63758eb898",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INBOX/פרק יו\"ט.md",
+                "file": "INBOX/פרק ביצה.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -30,35 +30,20 @@
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "פרק יו\"ט"
+              "title": "פרק ביצה"
             }
           },
           {
-            "id": "b5539f85513f2cb6",
+            "id": "0f6ce82260706870",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "כללי/תורה שבעל פה.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": true,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "תורה שבעל פה"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "אוכ\"נ",
+                "query": "הכנה",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -111,11 +96,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 272.5
   },
   "right": {
     "id": "dbd60df05b9b140a",
@@ -131,35 +117,35 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "כללי/תורה שבעל פה.md",
+                "file": "INBOX/פרק ביצה.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
+                  "localInterlinks": true,
+                  "showTags": true,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
-                  "textFadeMultiplier": 0,
+                  "textFadeMultiplier": -3,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
+                  "collapse-forces": true,
                   "centerStrength": 1,
-                  "repelStrength": 0,
+                  "repelStrength": 13.6458333333333,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.6666666666666674,
+                  "scale": 0.44444444444444486,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of תורה שבעל פה"
+              "title": "Graph of פרק ביצה"
             }
           },
           {
@@ -168,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "כללי/תורה שבעל פה.md",
+                "file": "INBOX/פרק ביצה.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for תורה שבעל פה"
+              "title": "Backlinks for פרק ביצה"
             }
           },
           {
@@ -206,16 +192,6 @@
             }
           },
           {
-            "id": "73597d0fdc927ac5",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
-            }
-          },
-          {
             "id": "1fa10e771cb439d2",
             "type": "leaf",
             "state": {
@@ -235,7 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,43 +229,42 @@
   },
   "active": "e712802ecd597b3c",
   "lastOpenFiles": [
-    "INBOX/פרק יו\"ט.md",
-    "כללי/לשון.md",
-    "כללי/הלכה.md",
-    "כללי/כללי הפסק.md",
-    "מועד/שבת/מקח וממכר.md",
-    "שונות/עבד כנעני.md",
-    "שונות/גוסס.md",
-    "מועד/יום טוב/אוכל נפש.md",
-    "מועד/יום טוב/מתוך.md",
-    "אוכ\"נ.md",
-    "מועד/שבת/מגבן.md",
-    "שונות/שכיב מרע.md",
-    "כללי/הפקר.md",
-    "שונות/חיוב נשים במצוות.md",
-    "מועד/ביטול חמץ.md",
-    "מועד/יום טוב/תנאי דב' ימי יו\"ט.md",
-    "כללי/אסמכתא.md",
-    "שונות/שעטנז.md",
-    "מועד/מצה.md",
+    "מועד/הכנה דרבה.md",
+    "מועד/איסור מלאכה/מוקצה.md",
     "INBOX/פרק ביצה.md",
-    "מועד/שבת/לחם משנה.md",
-    "מועד/שבת/תחום שבת.md",
-    "שונות/מחנה מלחמה.md",
-    "מועד/שבת/ערוב חצרות.md",
-    "מועד/יום טוב/ריבוי בשיעורים.md",
-    "מועד/שבת/מלאכה שאינה צריכה לגופה.md",
+    "INBOX/פרק יו\"ט.md",
+    "מועד/איסור מלאכה/אין טובלין.md",
+    "מועד/איסור מלאכה/העברה.md",
+    "מועד/איסור מלאכה",
+    "מועד/איסור מלאכה/הוצאה.md",
+    "מועד/איסור מלאכה/גזרה שמא יעבירנו.md",
+    "כללי/כללי הפסק.md",
+    "טהרות/מקווה.md",
+    "טהרות/השקה.md",
+    "מועד/שבת/סעודת שבת.md",
+    "שונות/רבי אליעזר בן הורקנוס.md",
+    "מועד/איסור מלאכה/שנים שעשו.md",
+    "מועד/יום הכיפורים/לפני ה' תטהרו.md",
+    "טהרות/טומאת הגוייה.md",
+    "קדשים/חצות עושה עיכול.md",
+    "מועד/יום טוב/חייב אדם לטהר עצמו ברגל.md",
+    "מועד/יום הכיפורים/ערב יוה\"כ.md",
+    "מועד/יום הכיפורים",
+    "טהרות/מקבלי טומאה.md",
+    "כללי/כעין דאורייתא.md",
+    "טהרות",
+    "ממונות",
+    "שונות/כבוד תלמידי חכמים.md",
+    "מועד/יום טוב/ערוב תבשילין/לא עשה ע\"ת.md",
+    "ממונות/דינא דמלכותא דינא.md",
+    "ממונות/תאגיד.md",
+    "נשים",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "missfont.log",
     "כללי",
     "תפילה",
     "graph.mmd",
-    "תנ\"ך",
-    "שונות 1",
-    "קנינים",
-    "חכמים",
-    "אגדתא",
-    "איסור והיתר/מאכלי עכו\"ם"
+    "תנ\"ך"
   ]
 }
