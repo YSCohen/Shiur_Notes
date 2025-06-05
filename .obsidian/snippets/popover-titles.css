@@ -1,0 +1,11 @@
+/* Display inline titles inside popovers */
+.mod-header {
+  display: block;
+}
+
+/* Uncomment the below for inline titles inside inline embeds */
+/*
+.inline-embed .inline-title {
+  display: block;
+}
+*/

@@ -1,8 +1,18 @@
 {
   "pluginList": [
+    "SkepticMystic/nlp",
+    "Mitra98t/vault2book-plugin",
     "nothingislost/obsidian-query-control"
   ],
   "pluginSubListFrozenVersion": [
+    {
+      "repo": "SkepticMystic/nlp",
+      "version": "latest"
+    },
+    {
+      "repo": "Mitra98t/vault2book-plugin",
+      "version": "latest"
+    },
     {
       "repo": "nothingislost/obsidian-query-control",
       "version": "latest"
